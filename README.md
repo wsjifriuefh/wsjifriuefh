@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm wouwouz</h1>
 <h3 align="center">Im just a random ppl</h3>
+<img align="right" alt"Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/016/733/442/original/vitaliy-zaramenskikh-.gif?1553253568"
 
 <p>
  <a href="https://discord.gg/9rshTJxrKw" alt="Enigma">
